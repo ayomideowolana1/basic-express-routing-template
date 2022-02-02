@@ -1,0 +1,25 @@
+{
+  "name": "basic-express-routing-template",
+  "version": "1.0.0",
+  "description": "A basic express router with 3 pages and an error handling page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayomideowolana1/basic-express-routing-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayomideowolana1/basic-express-routing-template/issues"
+  },
+  "homepage": "https://github.com/ayomideowolana1/basic-express-routing-template#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "path": "^0.12.7"
+  }
+}
